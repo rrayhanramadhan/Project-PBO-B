@@ -1,0 +1,82 @@
+C:\Users\Windows Baru\source\repos\Pengumpulan Poin Versi 2\Pengumpulan Poin Versi 2\bin\Debug\Pengumpulan Poin Versi 2.exe.config
+C:\Users\Windows Baru\source\repos\Pengumpulan Poin Versi 2\Pengumpulan Poin Versi 2\bin\Debug\Pengumpulan Poin Versi 2.exe
+C:\Users\Windows Baru\source\repos\Pengumpulan Poin Versi 2\Pengumpulan Poin Versi 2\bin\Debug\Pengumpulan Poin Versi 2.pdb
+C:\Users\Windows Baru\source\repos\Pengumpulan Poin Versi 2\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.csproj.AssemblyReference.cache
+C:\Users\Windows Baru\source\repos\Pengumpulan Poin Versi 2\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows Baru\source\repos\Pengumpulan Poin Versi 2\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan_Poin_Versi_2.Form1.resources
+C:\Users\Windows Baru\source\repos\Pengumpulan Poin Versi 2\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan_Poin_Versi_2.Properties.Resources.resources
+C:\Users\Windows Baru\source\repos\Pengumpulan Poin Versi 2\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.csproj.GenerateResource.cache
+C:\Users\Windows Baru\source\repos\Pengumpulan Poin Versi 2\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.csproj.CoreCompileInputs.cache
+C:\Users\Windows Baru\source\repos\Pengumpulan Poin Versi 2\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.exe
+C:\Users\Windows Baru\source\repos\Pengumpulan Poin Versi 2\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.pdb
+C:\Users\Windows Baru\source\repos\Pengumpulan Poin Versi 2\Pengumpulan Poin Versi 2\bin\Debug\Guna.UI2.dll
+C:\Users\Windows Baru\source\repos\Pengumpulan Poin Versi 2\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.csproj.CopyComplete
+C:\Users\Windows Baru\source\repos\Pengumpulan Poin Versi 2\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan_Poin_Versi_2.Form2.resources
+C:\Users\Windows Baru\source\repos\Pengumpulan Poin Versi 2\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan_Poin_Versi_2.Form3.resources
+C:\Users\Windows Baru\source\repos\Pengumpulan Poin Versi 2\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan_Poin_Versi_2.Form4.resources
+E:\Folder Tampungan Sementara Windows\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\Pengumpulan Poin Versi 2.exe.config
+E:\Folder Tampungan Sementara Windows\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\Pengumpulan Poin Versi 2.exe
+E:\Folder Tampungan Sementara Windows\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\Pengumpulan Poin Versi 2.pdb
+E:\Folder Tampungan Sementara Windows\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\Guna.UI2.dll
+E:\Folder Tampungan Sementara Windows\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.csproj.AssemblyReference.cache
+E:\Folder Tampungan Sementara Windows\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.csproj.SuggestedBindingRedirects.cache
+E:\Folder Tampungan Sementara Windows\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan_Poin_Versi_2.Form1.resources
+E:\Folder Tampungan Sementara Windows\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan_Poin_Versi_2.Form2.resources
+E:\Folder Tampungan Sementara Windows\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan_Poin_Versi_2.Form3.resources
+E:\Folder Tampungan Sementara Windows\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan_Poin_Versi_2.Form4.resources
+E:\Folder Tampungan Sementara Windows\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan_Poin_Versi_2.Properties.Resources.resources
+E:\Folder Tampungan Sementara Windows\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.csproj.GenerateResource.cache
+E:\Folder Tampungan Sementara Windows\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.csproj.CoreCompileInputs.cache
+E:\Folder Tampungan Sementara Windows\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.csproj.CopyComplete
+E:\Folder Tampungan Sementara Windows\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.exe
+E:\Folder Tampungan Sementara Windows\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.pdb
+E:\Folder Tampungan Sementara Windows\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan_Poin_Versi_2.Form5.resources
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\Pengumpulan Poin Versi 2.exe.config
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\Pengumpulan Poin Versi 2.exe
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\Pengumpulan Poin Versi 2.pdb
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\Guna.UI2.dll
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.csproj.AssemblyReference.cache
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan_Poin_Versi_2.Form1.resources
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan_Poin_Versi_2.Form2.resources
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan_Poin_Versi_2.Form3.resources
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan_Poin_Versi_2.Form4.resources
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan_Poin_Versi_2.Form5.resources
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan_Poin_Versi_2.Properties.Resources.resources
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.csproj.GenerateResource.cache
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.csproj.CoreCompileInputs.cache
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.csproj.CopyComplete
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.exe
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan Poin Versi 2.pdb
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan_Poin_Versi_2.Form6.resources
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\obj\Debug\Pengumpulan_Poin_Versi_2.Form7.resources
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\Npgsql.dll
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.Buffers.dll
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.Memory.dll
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.Text.Json.dll
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.Threading.Channels.dll
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.ValueTuple.dll
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\Npgsql.xml
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.Buffers.xml
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.Memory.xml
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.Text.Json.xml
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.Threading.Channels.xml
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rayha\Downloads\Pengumpulan Poin (1)\Pengumpulan Poin\Pengumpulan Poin Versi 2\bin\Debug\System.ValueTuple.xml
